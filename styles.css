@@ -1,0 +1,45 @@
+@charset "utf-8";
+.container-fluid {
+    background-image: -webkit-linear-gradient(270deg,rgba(225,57,60,1.00) 0%,rgba(227,39,41,1.00) 11.81%,rgba(185,139,139,1.00) 28.39%,rgba(234,224,224,1.00) 78.13%,rgba(255,0,0,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(225,57,60,1.00) 0%,rgba(227,39,41,1.00) 11.81%,rgba(185,139,139,1.00) 28.39%,rgba(234,224,224,1.00) 78.13%,rgba(255,0,0,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(225,57,60,1.00) 0%,rgba(227,39,41,1.00) 11.81%,rgba(185,139,139,1.00) 28.39%,rgba(234,224,224,1.00) 78.13%,rgba(255,0,0,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(225,57,60,1.00) 0.00%,rgba(227,39,41,1.00) 11.81%,rgba(185,139,139,1.00) 28.39%,rgba(234,224,224,1.00) 78.13%,rgba(255,0,0,1.00) 100%);
+}
+#headingOne1 .mb-0 a {
+    color: rgba(13,12,12,1.00);
+}
+#headingTwo1 .mb-0 .collapsed {
+    color: rgba(11,10,10,1.00);
+}
+
+
+.container-fluid .container .navbar.navbar-expand-lg.navbar-light.bg-light {
+    background-image: -webkit-linear-gradient(270deg,rgba(203,142,143,1.00) 0%,rgba(255,0,0,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(203,142,143,1.00) 0%,rgba(255,0,0,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(203,142,143,1.00) 0%,rgba(255,0,0,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(203,142,143,1.00) 0.00%,rgba(255,0,0,1.00) 100%);
+}
+.navbar-nav.mr-auto .nav-item .nav-link {
+    color: rgba(0,0,0,1.00);
+}
+.card.col-md-4.col-xl-12 .card-body .btn.btn-primary {
+    background-color: rgba(210,63,63,0.91);
+    color: rgba(10,8,8,1.00);
+}
+#accordion1 .card #headingOne1 {
+    color: rgba(16,14,14,1.00);
+}
+#accordion1 .card #headingTwo1 {
+    color: rgba(241,100,102,1.00);
+    background-color: rgba(244,109,111,1.00);
+}
+#accordion1 .card #headingOne1 {
+    background-color: rgba(248,105,108,1.00);
+    color: rgba(9,8,8,1.00);
+}
+#accordion1 .card #headingTwo1 {
+    color: rgba(24,21,21,1.00);
+    background-color: rgba(233,92,95,1.00);
+}
+#headingOne1 .mb-0 a {
+}
